@@ -13,11 +13,14 @@ This repository contains Python practice programs created to understand basic Py
 - VS Code
 - Git & GitHub
 
-##  Files
-- anu.py
-- chapter_3.py
-- python.py
-- rehman.py
+## Logic Programs
+- Reverse Number
+- String Replace
+- Dictionary Operations
+- Student Result System
+- 
+- 
+- 
 
 ##  How to Run
 1. Open the project in VS Code
